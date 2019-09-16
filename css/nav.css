@@ -1,7 +1,24 @@
 body {
   padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+.navbar {
+  
+  height:75px;
+  box-shadow: 0 1px 3px 1px rgba(218, 218, 218, 0.671);
+  background-color: white;
+ 
+}
+
+#menu{
+  align-self: center;
+  height:75px;
+}
+
+#finalizar{
+  background-color: rgb(56, 247, 8);
 }
